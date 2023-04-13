@@ -13,4 +13,4 @@ const store = configureStore({
 
 export default store;
 
-export const server = "https://edumindz-backend.vercel.app/api/v1";
+export const server = "https://edumindz-backend.vercel.app/";
